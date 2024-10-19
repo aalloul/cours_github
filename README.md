@@ -1,3 +1,7 @@
+![Ada, la seule formation qui vous forme à la stack data](images/ada.jpeg "Cours DBT Ada")
+
+Pour rejoindre notre formation, direction notre plateforme [Ada](https://www.ada-study.com)
+
 # Cours GitHub Ada
 
 Premier fichier ajouté à Git.
